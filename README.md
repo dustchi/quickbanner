@@ -4,7 +4,7 @@ QuickBanner is a JavaScript library for creating sample banner.
 
 ## Requirements
 
-QuickBanner requires JQuery and Font Awesome. Please refer to [demo.html](https://github.com/michitect/quickbanner/blob/main/demo.html) for reference on how to set it up.
+QuickBanner requires [JQuery](https://jquery.com/) and [Font Awesome](https://fontawesome.com/). Please refer to [demo.html](https://github.com/michitect/quickbanner/blob/main/demo.html) for reference on how to set it up.
 
 ## Installation
 
