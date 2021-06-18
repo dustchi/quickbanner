@@ -10,6 +10,9 @@ QuickBanner requires JQuery and Font Awesome. Please refer to [demo.html](https:
 
 Copy the [quickbanner.js](https://github.com/michitect/quickbanner/blob/main/quickbanner.js) to your working folder.
 
+## Demo
+
+![](demo.webp)
 
 ## Usage
 
