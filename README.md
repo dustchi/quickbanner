@@ -1,0 +1,2 @@
+# quickbanner
+Javascript banner library
